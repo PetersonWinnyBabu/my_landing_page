@@ -75,7 +75,7 @@ a {
   }
   .hero-section-background-container {
     height: 394px;
-    background-image: url("/my-landing-page/images/d9e2eb1945ffd93ea40450c1db6dd1c7d2b70f19.jpg");
+    background-image: url("/my_landing_page/images/d9e2eb1945ffd93ea40450c1db6dd1c7d2b70f19.jpg");
     width: 100%;
     opacity: 1;
     display: flex;
@@ -876,7 +876,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url("/my-landing-page/images/Rectangle\ 3047.png");
+    background-image: url("/my_landing_page/images/Rectangle\ 3047.png");
     background-size: cover;
     background-position: center;
   }
@@ -1190,7 +1190,7 @@ a {
   }
 
   .hero-section-background-container {
-    background-image: url("/my-landing-page/images/d9e2eb1945ffd93ea40450c1db6dd1c7d2b70f19.jpg");
+    background-image: url("/my_landing_page/images/d9e2eb1945ffd93ea40450c1db6dd1c7d2b70f19.jpg");
     width: 100%;
     height: 450px;
     opacity: 1;
@@ -1681,7 +1681,7 @@ a {
   }
 
   .hero-section-background-container {
-    background-image: url("/my-landing-page/images/d9e2eb1945ffd93ea40450c1db6dd1c7d2b70f19.jpg");
+    background-image: url("/my_landing_page/images/d9e2eb1945ffd93ea40450c1db6dd1c7d2b70f19.jpg");
     width: 65%;
     height: 450px;
     opacity: 1;
@@ -2465,7 +2465,7 @@ a {
     overflow-y: scroll;
   }
   .section-7-tablet-desktop-list-item-card {
-    background-image: url("/my-landing-page/images/efcbebb5a514870404cfb96542778b23819867e3.png");
+    background-image: url("/my_landing_page/images/efcbebb5a514870404cfb96542778b23819867e3.png");
     background-size: cover;
     background-position: center;
     width: 412px;
@@ -2481,7 +2481,7 @@ a {
   }
 
   .section-7-tablet-desktop-list-item-card-2 {
-    background-image: url("/my-landing-page/images/69f002984c76679b7dff168bbdcad80eeb6369af.png");
+    background-image: url("/my_landing_page/images/69f002984c76679b7dff168bbdcad80eeb6369af.png");
     background-size: cover;
     background-position: center;
     width: 412px;
@@ -2496,7 +2496,7 @@ a {
     padding-bottom: 20px;
   }
   .section-7-tablet-desktop-list-item-card-3 {
-    background-image: url("/my-landing-page/images/03bd7e680fdfbef370f1969b4e4077a614fe73a3.png");
+    background-image: url("/my_landing_page/images/03bd7e680fdfbef370f1969b4e4077a614fe73a3.png");
     background-size: cover;
     background-position: center;
     width: 412px;
@@ -2621,7 +2621,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url("/my-landing-page/images/Rectangle\ 3047.png");
+    background-image: url("my_landing_page/images/Rectangle\ 3047.png");
     background-size: cover;
     background-position: center;
   }
